@@ -658,7 +658,7 @@ If we were to save and run this, we'd see an error like this:
 {% filename %}{{ warning_icon }} command-line{% endfilename %}
 ```
 $ python3 python_intro.py
-File "python_intro.py", line 1
+  File "/home/ola/Desktop/python_intro.py", line 1
     if 3 > 2:
 IndentationError: expected an indented block after 'if' statement on line 1
 ```
